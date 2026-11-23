@@ -1,0 +1,15 @@
+Calcola il massimo tra 2, 3 e 4 numeri usando tre funzioni
+costruite una sopra l'altra.
+
+massimo(n, n1): restituisce il maggiore dei due numeri
+con l'operatore ternario.
+
+massimoDiTre(n, n1, n3): applica massimo prima su n e n1,
+poi sul risultato e n3.
+
+massimoDiQuattro(n, n1, n3, n4): applica massimoDiTre
+sui primi tre, poi massimo con il quarto.
+
+Il main chiede i numeri uno alla volta (prima due, poi
+il terzo, poi il quarto) e dopo ogni inserimento stampa
+il massimo trovato fino a quel momento.
