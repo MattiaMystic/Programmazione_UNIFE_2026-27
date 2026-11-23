@@ -45,7 +45,7 @@ int main()
 
             int giorni_massimi = 31;
 
-            if (M == 4 || M == 6 || M == 9 || M == 10)
+            if (M == 4 || M == 6 || M == 9 || M == 11)
             {
                 giorni_massimi = 30;
             }
