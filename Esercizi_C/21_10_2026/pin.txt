@@ -1,0 +1,12 @@
+Chiede il PIN e lo richiede finché non è corretto.
+
+Usa un ciclo do while. Dentro il ciclo legge il pin e
+controlla se è uguale a 44122: se sì stampa "Pin corretto",
+altrimenti stampa "Pin errato, riprova".
+
+La condizione while (pin != 44122) fa ripetere il ciclo
+finché il PIN è sbagliato.
+
+Essendo un do while, il corpo viene eseguito almeno una
+volta, il che è giusto perché il PIN va chiesto almeno
+una volta.
