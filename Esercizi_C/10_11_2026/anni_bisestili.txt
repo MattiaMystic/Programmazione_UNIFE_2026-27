@@ -1,0 +1,3 @@
+Riempie un array a con gli anni da 1900 a 2100 (DIM = 201). 
+Poi controlla ogni anno con la funzione bisestile e copia quelli bisestili nell'array b, 
+tenendo il conto in ls. Alla fine stampa tutti gli anni bisestili trovati, uno per riga.
