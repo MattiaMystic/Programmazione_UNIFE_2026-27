@@ -1,0 +1,19 @@
+Programma di esempio sui record di attivazione, cioè lo
+spazio che ogni chiamata di funzione occupa nello stack
+con le sue variabili locali.
+
+Catena di chiamate: main chiama P, P chiama Q, Q chiama R.
+
+R(A): ha x = 2 e restituisce x + A.
+Q(x): restituisce 2 * R(x).
+P(): ha a = 10 e restituisce Q(a).
+main: ha x = 1 e calcola y = x + P().
+
+Calcolo: R(10) = 2 + 10 = 12, Q(10) = 2 * 12 = 24,
+P() = 24, quindi y = 1 + 24 = 25.
+
+Il programma stampa "y è: 25".
+
+Le variabili x e y di main, di R e di Q si chiamano
+uguale ma sono variabili diverse, perché ogni funzione
+ha il suo record di attivazione.
