@@ -1,0 +1,4 @@
+Simula l'accesso a una rubrica con un PIN. Chiede il PIN e, se è quello giusto, mostra due contatti (Tizio e Caio), chiede quale chiamare e stampa "Chiamata in corso". 
+Altrimenti stampa "Accesso negato". 
+In fondo stampa sempre "Fine". 
+La prima versione, con goto fine, è lasciata come commento, e quella attiva usa if / else.
