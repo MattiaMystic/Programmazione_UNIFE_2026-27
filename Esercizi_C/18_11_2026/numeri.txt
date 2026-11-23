@@ -1,0 +1,8 @@
+Genera 300 numeri casuali tra 0 e 99 con la funzione rnd_int(min, max), che usa rand() % (max - min + 1) + min. 
+Il seme è fisso (srand(100)), quindi escono sempre gli stessi numeri. 
+Li stampa uno per riga e alla fine stampa -1, che fa da terminatore.
+
+runna così(prima di statistiche):
+./numeri > numeri.in
+
+SERVE IL FILE JSON 
