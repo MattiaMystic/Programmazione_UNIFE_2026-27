@@ -1,0 +1,8 @@
+Legge numeri da tastiera (o da file con <) finché non trova un numero negativo oppure ne ha letti 100 (DIM). Poi stampa:
+
+- il minimo e il massimo, con indice_min e indice_max, che restituiscono la posizione del valore;
+- la media, con media_aritmetica;
+- la frequenza massima e il numero (o i numeri) che la raggiungono. numeri_frequenza riempie due array paralleli: numeri con i valori distinti e frequenza con quante volte compare ciascuno.
+
+RUNNA post numeri.c grazie al JSON:
+./statistiche < numeri.in
