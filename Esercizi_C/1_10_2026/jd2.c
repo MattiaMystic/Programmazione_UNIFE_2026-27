@@ -47,7 +47,7 @@ int main()
 
             int giorni_massimi = 31;
 
-            if (M == 4 || M == 6 || M == 9 || M == 10)
+            if (M == 4 || M == 6 || M == 9 || M == 11)
             {
                 giorni_massimi = 30;
             }
@@ -91,11 +91,11 @@ int main()
 
     if (JDs[0] <= JDs[1])
     {
-        differenza = JDs[0] - JDs[1];
+        differenza = JDs[1] - JDs[0];
     }
     else
     {
-        differenza = JDs[1] - JDs[0];
+        differenza = JDs[0] - JDs[1];
     }
     printf("La differenza tra le due date JD è [%d] giorni\n", differenza);
 
