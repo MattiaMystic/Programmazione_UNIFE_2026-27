@@ -1,0 +1,13 @@
+Chiede un numero e ne stampa il doppio, e ripete finché
+non viene inserito un numero negativo.
+
+Il ciclo è fatto con goto. L'etichetta "ripeti:" è il
+punto di ritorno.
+
+Il programma legge n. Se n >= 0 calcola d = n * 2,
+stampa il doppio e salta di nuovo a "ripeti" con goto.
+Se n è negativo non entra nell'if, esce e stampa
+"Fine , numero negativo!".
+
+Lo 0 conta come valore valido, quindi il programma
+continua e stampa 0.
