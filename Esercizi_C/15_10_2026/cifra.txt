@@ -1,0 +1,2 @@
+Legge un solo carattere e dice che tipo è, confrontandolo con gli intervalli della tabella ASCII: 
+lettera maiuscola ('A'-'Z'), minuscola ('a'-'z'), cifra ('0'-'9'), oppure carattere speciale (tutto il resto).
