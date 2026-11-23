@@ -1,0 +1,3 @@
+Come frazione.c, ma aggiunge mcd, che calcola il massimo comune divisore con il metodo delle sottrazioni ripetute. 
+stampaFrazione divide numeratore e denominatore per l'MCD,
+quindi stampa la frazione ridotta ai minimi termini (4/8 diventa 1/2).
