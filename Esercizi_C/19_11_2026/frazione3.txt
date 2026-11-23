@@ -1,0 +1,5 @@
+La riduzione ai minimi termini passa dentro il costruttore: ogni frazione creata è già semplificata. 
+Il costruttore blocca il programma con "ERRORE" se il denominatore è 0 e trasforma 0/qualsiasi cosa in 0/1. mcd gestisce zero e numeri negativi. 
+Aggiunge le operazioni inverso, somma, opposto, prodotto, quoziente e differenza, costruite l'una sull'altra: 
+il quoziente è il prodotto per l'inverso e la differenza è la somma con l'opposto. 
+Il main le prova con frazioni lette da tastiera e con alcune fisse.
