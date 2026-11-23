@@ -1,2 +1,2 @@
 Chiede due numeri interi e dice quale dei due è il maggiore. Se sono uguali, lo segnala.
-Esame: "Uso if / else if / else per coprire i tre casi: a > b, b > a, uguali."
+"Uso if / else if / else per coprire i tre casi: a > b, b > a, uguali."
