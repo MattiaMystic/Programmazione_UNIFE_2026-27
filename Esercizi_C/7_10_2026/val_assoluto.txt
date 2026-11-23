@@ -1,0 +1,2 @@
+Calcola il valore assoluto di un numero come valore_assoluto.c, ma senza if / else. 
+Usa l'operatore ternario num >= 0 ? num : -num, che significa "se num è maggiore o uguale a 0 prendi num, altrimenti prendi -num".
