@@ -1,0 +1,2 @@
+Chiede i tre lati di un triangolo e dice che tipo è. Se i tre lati sono uguali è equilatero. 
+Se due lati sono uguali e il terzo è diverso è isoscele. Altrimenti è scaleno.
