@@ -4,3 +4,8 @@ Chiede una data (giorno, mese, anno) e stampa il giorno successivo. Usa quattro 
 2) meseNormale(mese): dice se il mese ha 30 giorni (aprile, giugno, settembre, novembre).
 3) giorniM(mese, a): restituisce i giorni del mese (30, 31, oppure 28/29 per febbraio).
 4) valida(g, m, a): controlla che la data esista.
+
+
+Nel main, se la data non è valida stampa un errore ed esce. 
+Se è il 31 dicembre passa al 1/1 dell'anno dopo. 
+Se è l'ultimo giorno del mese passa al 1 del mese dopo. Altrimenti aumenta solo il giorno.
