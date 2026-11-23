@@ -1,0 +1,2 @@
+Trova il maggiore tra tre numeri usando solo due variabili. Legge a e b e li confronta. Poi legge il terzo numero e lo mette nella variabile del più piccolo,
+che non serve più, e confronta di nuovo. Le due versioni con tre variabili sono lasciate come commento.
