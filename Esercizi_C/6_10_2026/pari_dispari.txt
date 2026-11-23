@@ -1,0 +1,1 @@
+Dice se un numero è pari o dispari con l'operatore resto %. num % 2 vale 1 (vero) se è dispari e 0 (falso) se è pari.
