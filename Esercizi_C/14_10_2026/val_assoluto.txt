@@ -1,0 +1,11 @@
+Calcola il valore assoluto di un numero usando un puntatore.
+
+La funzione valoreAssoluto riceve l'indirizzo di n
+(int *n). Se il valore puntato (*n) è negativo lo
+cambia di segno con *n = -*n.
+
+Non restituisce niente (void), perché modifica
+direttamente la variabile n del main.
+
+Il main legge n, chiama valoreAssoluto(&n) e stampa n,
+che ora contiene già il valore assoluto.
