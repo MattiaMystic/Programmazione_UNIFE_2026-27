@@ -1,0 +1,10 @@
+Mostra come una funzione può modificare una variabile
+del main tramite puntatore.
+
+La funzione azzera riceve l'indirizzo di a (int *a)
+e scrive 0 nella variabile puntata con *a = 0.
+
+Il main parte con a = 5, la stampa, chiama azzera(&a)
+e la stampa di nuovo.
+
+Output: prima "a ora vale 5", poi "a ora vale 0".
