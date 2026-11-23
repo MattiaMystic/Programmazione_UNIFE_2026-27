@@ -1,2 +1,2 @@
-# Programmazzione_UNIFE_2026-27
+# Programmazione_UNIFE_2026-27
 Programmazione in C
