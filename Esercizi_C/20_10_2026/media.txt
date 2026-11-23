@@ -1,0 +1,13 @@
+Calcola la media tra due interi, a = 1 e b = 2.
+
+Si usa (a + b) / 2.0. Il 2.0 è un numero decimale, quindi
+la divisione viene fatta in virgola mobile e il risultato
+è 1.50.
+
+Con (a + b) / 2, cioè con due interi, la divisione sarebbe
+intera e darebbe 1, perché i decimali vengono scartati.
+
+L'altra soluzione, lasciata nel commento, è il cast:
+(float)(a + b) / 2.
+
+Il programma stampa "La media è : 1.50".
