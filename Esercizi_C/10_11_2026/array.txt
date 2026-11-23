@@ -1,0 +1,3 @@
+Chiede i coefficienti a, b, c di una parabola y = ax² + bx + c. 
+Con un ciclo for calcola 20 punti, con x che parte da -0.9 e sale di 0.1 alla volta fino a circa 1.0. 
+Le x vanno nell'array ascisse e le y in ordinate. Poi stampa le coppie (x, y), una per riga.
