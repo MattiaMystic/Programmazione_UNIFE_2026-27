@@ -1,0 +1,1 @@
+Dice se un numero è positivo, nullo o negativo, con tre casi: > 0, == 0, altrimenti negativo. Il messaggio iniziale dice "positivo", ma il programma gestisce tutti e tre i casi.
