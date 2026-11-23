@@ -1,0 +1,3 @@
+Chiede i tre lati e controlla se vale il teorema di Pitagora: a*a + b*b == c*c. 
+Se è vero stampa che il triangolo è rettangolo, altrimenti dice che non lo è. 
+Il programma considera c come ipotenusa, quindi i lati vanno inseriti con il più lungo per ultimo.
