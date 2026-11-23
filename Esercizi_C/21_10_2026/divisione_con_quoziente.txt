@@ -1,0 +1,18 @@
+Fa la divisione intera tra due numeri e restituisce sia
+il quoziente sia il resto.
+
+Una funzione con return può restituire un solo valore,
+quindi i risultati vengono passati con due puntatori:
+risultato per il quoziente e resto per il resto.
+
+La funzione divisione(n, divisione, &resto, &risultato)
+controlla se il divisore è diverso da 0. Se sì, calcola
+n / divisore e n % divisore e restituisce 0. Se il
+divisore è 0 non calcola niente e restituisce 1.
+
+Il return serve quindi come codice di errore.
+
+Il main legge a e il divisore e usa uno switch sul valore
+restituito:
+case 0: stampa risultato e resto;
+case 1: stampa "Errore divisione per 0".
