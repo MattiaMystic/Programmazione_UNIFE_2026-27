@@ -1,0 +1,3 @@
+Definisce il tipo Frazione (numeratore e denominatore). 
+Ha una funzione costruttore frazione(n, d) e due getter, numeratore e denominatore. 
+Legge una frazione, la stampa così com'è e stampa il suo valore decimale con due cifre (cast a float).
