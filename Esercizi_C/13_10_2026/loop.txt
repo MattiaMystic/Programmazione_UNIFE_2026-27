@@ -1,0 +1,3 @@
+Stampa i numeri da 0 a 99 senza usare for o while, ma con goto. 
+L'etichetta stampa: è il punto di ritorno. 
+Il programma stampa a, la aumenta di 1 e, finché a <= 99, salta di nuovo a stampa.
