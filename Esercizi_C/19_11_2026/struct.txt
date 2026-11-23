@@ -1,0 +1,3 @@
+Definisce con typedef struct il tipo Persona (nome, cognome, età). 
+leggiPersona legge i tre dati e restituisce la struct. 
+stampaPersona la riceve per puntatore e usa l'operatore -> per stamparne i campi.
