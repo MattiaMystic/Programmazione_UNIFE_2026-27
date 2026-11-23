@@ -1,0 +1,6 @@
+Il programma:
+
+1) Chiede una data (giorno, mese, anno) e la ripete finché non è valida (do while).
+2) Controlla che mese e anno siano sensati e che il giorno non superi i giorni massimi del mese. Per febbraio controlla se l'anno è bisestile: divisibile per 4 ma non per 100, oppure divisibile per 400.
+3) Calcola il Giorno Giuliano (JD), cioè il numero di giorni dal 1/1/4713 a.C., con la formula a quattro parti N0, N1, N2, N3. Le divisioni sono tra interi, quindi scartano i decimali.
+4) Calcola JD % 7 e con la funzione stampa_giorno stampa il giorno della settimana (0 = lunedì, ... 6 = domenica).
