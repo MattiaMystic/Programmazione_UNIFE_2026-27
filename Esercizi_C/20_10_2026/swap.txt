@@ -1,0 +1,8 @@
+Scambia il valore di due variabili.
+
+La funzione swap riceve gli indirizzi di a e b
+(int *a, int *b). Usa una variabile temporanea t:
+salva *a in t, copia *b in *a, poi copia t in *b.
+
+Siccome lavora con i puntatori, modifica le variabili
+originali del main.
