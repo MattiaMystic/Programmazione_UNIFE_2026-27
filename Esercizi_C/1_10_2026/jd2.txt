@@ -1,0 +1,2 @@
+Fa lo stesso di jd.c, ma per due date, che salva nell'array JDs[2]. Alla fine stampa la differenza in giorni tra le due date.
+Il contatore i aumenta solo se la data è valida, quindi il programma insiste finché non ne ha due corrette.
