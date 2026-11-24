@@ -5,7 +5,7 @@ int main()
     int a, b, c;
     printf("Inserisci i lati del triangolo! \n");
     scanf("%d%d%d", &a, &b, &c);
-    if (a * a + b * b == c * c)
+    if (a * a + b * b == c * c) // Teorema di pitagora
     {
         printf("Il triangolo è rettangolo!\n");
     }
